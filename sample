@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 macro macro
 dh
+=======
+macro conflict
+merge from main
+>>>>>>> main
