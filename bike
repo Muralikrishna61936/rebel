@@ -1,2 +1,6 @@
 macro to other branches
+<<<<<<< HEAD
   fork to the macro from main
+=======
+  pull to project
+>>>>>>> 82d38a5 (pull project)
